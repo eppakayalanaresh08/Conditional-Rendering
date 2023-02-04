@@ -30,7 +30,7 @@ class App extends Component {
     //  <p>using-Element variable</p>
 
     // let authButton
-    // if (isLoggedIn === true) {
+    // if (isLoggedIn) {
     //   authButton = (
     //     <button className="button" type="button">
     //       Logout
